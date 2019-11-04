@@ -79,3 +79,4 @@ lazy val commonSettings = Seq(
     .setPreference(NewlineAtEndOfFile, true)
     .setPreference(AllowParamGroupsOnNewlines, true)
 )
+//::end[]
